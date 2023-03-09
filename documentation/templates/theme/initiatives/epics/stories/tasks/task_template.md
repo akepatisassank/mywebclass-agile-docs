@@ -1,4 +1,4 @@
-Task Title: Implement legal disclaimers and privacy policies for website
+### Task Title: Implement legal disclaimers and privacy policies for website
 
 User Story: As a website developer, I want to implement legal disclaimers and privacy policies so that the website is compliant with relevant laws and regulations.
 
@@ -6,7 +6,7 @@ Description: Research and review relevant laws and regulations to identify the n
 
 Effort Estimate: 4 hours
 
-Assigned To: John Doe
+Assigned To: sasank
 
 Priority: High
 
@@ -14,7 +14,7 @@ Status: Not started
 
 Notes: -
 
-Task Title: Optimize website for search engines using on-page SEO techniques
+### Task Title: Optimize website for search engines using on-page SEO techniques
 
 User Story: As a website developer, I want to optimize the website for search engines so that it ranks higher in search results.
 
@@ -22,7 +22,7 @@ Description: Conduct keyword research to identify relevant keywords and phrases 
 
 Effort Estimate: 6 hours
 
-Assigned To: Jane Smith
+Assigned To: Sasank
 
 Priority: High
 
@@ -30,7 +30,7 @@ Status: In progress
 
 Notes: Need to verify implementation of SEO techniques with a third-party tool.
 
-Task Title: Set up automated testing and deployment processes
+### Task Title: Set up automated testing and deployment processes
 
 User Story: As a DevOps engineer, I want to implement automated testing and deployment processes so that code changes can be delivered faster and with fewer errors and defects.
 
@@ -38,7 +38,7 @@ Description: Research and identify suitable tools and technologies for automated
 
 Effort Estimate: 12 hours
 
-Assigned To: Bob Johnson
+Assigned To: Sasank
 
 Priority: High
 
@@ -46,7 +46,7 @@ Status: Blocked (waiting for approval on tool selection)
 
 Notes: Waiting on team lead to approve the selected tools and technologies.
 
-Task Title: Schedule regular meetings and communication channels between dev and ops teams
+### Task Title: Schedule regular meetings and communication channels between dev and ops teams
 
 User Story: As a project manager, I want to set up regular meetings and communication channels between development and operations teams so that they can share information and coordinate effectively.
 
@@ -54,7 +54,7 @@ Description: Schedule regular meetings between development and operations teams 
 
 Effort Estimate: 4 hours
 
-Assigned To: Sarah Lee
+Assigned To: Sasank
 
 Priority: Medium
 
@@ -62,7 +62,7 @@ Status: In progress
 
 Notes: Need to finalize meeting schedule with team leads.
 
-Task Title: Implement tools and technologies for collaboration and communication
+### Task Title: Implement tools and technologies for collaboration and communication
 
 User Story: As a DevOps engineer, I want to implement tools and technologies that facilitate collaboration and communication so that teams can work together more efficiently.
 
@@ -70,7 +70,7 @@ Description: Research and identify suitable tools and technologies for collabora
 
 Effort Estimate: 8 hours
 
-Assigned To: Mike Williams
+Assigned To: Sasank
 
 Priority: Medium
 
@@ -78,7 +78,7 @@ Status: Not started
 
 Notes: -
 
-Task Title: Implement tools and technologies for improving development speed and accuracy
+### Task Title: Implement tools and technologies for improving development speed and accuracy
 
 User Story: As a DevOps engineer, I want to implement tools and technologies that improve the speed and accuracy of development
 
@@ -86,7 +86,7 @@ Description: Research and identify suitable tools and technologies for improving
 
 Effort Estimate: 8 hours
 
-Assigned To: Mike Williams
+Assigned To: Rahul
 
 Priority: Medium
 
@@ -94,7 +94,7 @@ Status: In progress
 
 Notes: Need to finalize tool selection with the team leads.
 
-Task Title: Analyze and optimize the development process for maximum efficiency
+### Task Title: Analyze and optimize the development process for maximum efficiency
 
 User Story: As a project manager, I want to analyze and optimize the development process for maximum efficiency so that the team can deliver high-quality products faster.
 
@@ -110,7 +110,7 @@ Status: Not started
 
 Notes: Need to schedule team meetings and involve all relevant team members in the analysis and optimization process.
 
-Task Title: Set up monitoring and alerting systems to identify and address performance issues
+### Task Title: Set up monitoring and alerting systems to identify and address performance issues
 
 User Story: As a DevOps engineer, I want to set up monitoring and alerting systems so that performance issues can be identified and addressed in real-time.
 
@@ -118,7 +118,7 @@ Description: Identify key performance metrics (e.g., response time, error rate, 
 
 Effort Estimate: 8 hours
 
-Assigned To: John Smith
+Assigned To: Rahul
 
 Priority: High
 
