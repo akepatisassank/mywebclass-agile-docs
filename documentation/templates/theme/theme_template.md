@@ -4,4 +4,5 @@ You can fill in the placeholders with your own information to create a complete 
 
 
 # List initiatives related to this theme
-1. [Initiative](documentation/templates/theme/initiatives/initiative_template.md)
+1. [Develop a Basic Website Template for MyWebClass.org](/documentation/templates/theme/initiatives/initiative_template.md)
+2. [DevOps Process for Efficient Development](/documentation/templates/theme/initiatives/initiative_template.md)
